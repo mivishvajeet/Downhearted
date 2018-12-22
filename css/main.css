@@ -1,0 +1,61 @@
+body {
+    background: rgb(120, 35, 231);
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+}
+
+h1 {
+    font-weight: 700;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    text-align: center;
+    color:#fff;
+    font-size: 50px;
+}
+
+.container {
+    width: 100%;
+    text-align: center;
+}
+
+.compliment-zone p {
+    font-size: 22px;
+    margin-top: 30px;
+}
+
+.get-compliment img {
+    width: 10%;
+    cursor: pointer;
+}
+
+footer {
+    text-align: center;
+    font-weight: 500;
+    font-size: 15px;
+    position: fixed;
+    bottom: 3px;
+    width: 100%;
+    min-height: 50px;
+}
+
+footer a.social {
+    font-size: 24px;
+    color: #fff;
+    padding-right: auto;
+}
+
+footer a.social:hover {
+    color: rgb(165, 106, 242);
+}
+
+@media only screen and (max-width: 500px) {
+    h1 {
+        font-size: 20px;
+    }
+    .get-compliment img {
+        width: 50%;
+    }
+    .compliment-zone p {
+        font-size: 15px;
+    }
+}
