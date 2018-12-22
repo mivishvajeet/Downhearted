@@ -7,11 +7,14 @@
  
 1. Just Click on the Emoji !!
 
- ![screenshot 2](https://user-images.githubusercontent.com/42410523/50377946-e5a0ad00-05db-11e9-8091-98ddc85ff66c.png)
+ 
+![screenshot 3](https://user-images.githubusercontent.com/42410523/50378008-1a613400-05dd-11e9-847c-f7e5b2a9c059.png)
  
 2.Generated Compliment. 
  
- ![screenshot 1](https://user-images.githubusercontent.com/42410523/50377935-7f1b8f00-05db-11e9-8421-5ff21b143ac1.png)
+ ![screenshot 4](https://user-images.githubusercontent.com/42410523/50378018-48df0f00-05dd-11e9-89b6-580dc893e48c.png)
+
+
 
  
  
